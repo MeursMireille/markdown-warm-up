@@ -1,15 +1,15 @@
 # markdown-warm-up
 ## Gates n Fences
-we gaan eens checken hoe we [deze website](http://www.gatesnfences.com/) kunnen verbeteren!
+We gaan eens checken hoe we [deze website](http://www.gatesnfences.com/) kunnen verbeteren!
 
-### wordt het regelmatig bijgewerkt?
+### Wordt het regelmatig bijgewerkt?
 *Laatste update was 2008!*
 
 
-### hoe heb je het gevonden?
+### Hoe heb je het gevonden?
 *google search "Bad websites-> verkozen tot slechtste website van 2015"*
 
-### waarom heeft deze websites updates of remakes nodig? 
+### Waarom heeft deze websites updates of remakes nodig? 
 
 * ouderwets design
 * overweldigend veel tekst
@@ -17,7 +17,7 @@ we gaan eens checken hoe we [deze website](http://www.gatesnfences.com/) kunnen 
 * slechte layout (non-responsive)
 * functies die niet werken
 
-### lijst voor toekomstige wijzigingen
+### Lijst voor toekomstige wijzigingen
 
 * nieuw kleur schema
 * responsive
@@ -27,3 +27,10 @@ we gaan eens checken hoe we [deze website](http://www.gatesnfences.com/) kunnen 
 * zorgen dat de code/functies werken!
 
 <hr/>
+
+Steve
+Andy
+Raf
+Geert
+Mireille
+
